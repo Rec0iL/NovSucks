@@ -4,7 +4,9 @@
       "Bash(mkdir -p \\\\ *)",
       "WebFetch(domain:eu.novritsch.com)",
       "Bash(read -r d)",
-      "Bash(touch __TRACKED_VAR__/.gitkeep)"
+      "Bash(touch __TRACKED_VAR__/.gitkeep)",
+      "WebFetch(domain:aliexpress.com)",
+      "WebFetch(domain:de.aliexpress.com)"
     ],
     "additionalDirectories": [
       "/home/rec0il/Dokumente/Scritps/NovSucks/.github"

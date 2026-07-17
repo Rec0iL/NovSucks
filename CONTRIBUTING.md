@@ -39,9 +39,12 @@ Only include information you've verified yourself or can cite a source for. If y
 # <Product> — Alternative Sources
 
 - [Seller/listing name](https://...) — what it is, price seen, any caveats
+  - Search term if the link dies: **"..."**
 ```
 
 Prefer direct product listing links over shop homepages. Note the date you found the link if prices/availability are likely to change.
+
+AliExpress links rot fast (listings get delisted or reshuffled). Always add a fallback search term alongside the link — the product's actual title/model name (e.g. an OEM model number), or a generic phrase that reliably surfaces equivalent listings — so people can still find the item once the link is dead.
 
 ## 3D print files
 

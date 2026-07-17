@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="NovSucks logo" width="500">
+</p>
+
 # NovSucks
 
 A community-maintained knowledge base for **Novritsch** airsoft replicas — Bills of Materials, 3D-printable spare/upgrade parts, and links to the (often identical) source products sold on AliExpress and elsewhere.
@@ -23,6 +27,8 @@ If you are a rights holder and have a concern about specific content, please ope
 | 3D-printable files (STL + editable source) | `<product>/3d-print-files/` |
 | AliExpress / alternative source links | `<product>/links.md` |
 | General guides (not tied to one product) | `guides/` |
+
+> **Link dead?** AliExpress listings get delisted or reshuffled all the time. Each `links.md` entry includes a fallback search term (product title/model number) alongside the direct link — if the link 404s, search AliExpress for that term instead of assuming the alternative no longer exists.
 
 ## Repo structure
 
