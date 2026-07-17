@@ -1,0 +1,23 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# CAD / slicer temp & backup files
+*.bak
+*~
+*.f3d.bak
+*.FCBak
+*.3mf.bak
+*.gcode
+*.stl.orig
+
+# Archives accidentally dropped in
+*.zip
+*.rar
+*.7z
