@@ -6,7 +6,7 @@ Source: [eu.novritsch.com/de/product/compact-chrono](https://eu.novritsch.com/de
 
 ## Known quirks / notes
 
-- _Add known quirks, calibration notes, teardown info here._
+- Just a rebrand of the HT-X300X without wifi.
 
 ## See also
 

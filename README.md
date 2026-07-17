@@ -57,4 +57,4 @@ PRs adding/correcting BOMs, links, or 3D files are welcome. See [CONTRIBUTING.md
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE). By contributing, you agree to license your contribution under the same terms.
+This repository is licensed under the [CC BY-NC-SA 4.0 International Public License](LICENSE). By contributing, you agree to license your contribution under the same terms.
