@@ -45,7 +45,6 @@ NovSucks/
 ├── ssg24/
 ├── ssp18/
 ├── ssp1/
-├── ssu12/
 ├── antifog-unit/             # AntiFog Unit Gen2 (BB Proof), model E164B2
 ├── compact-chrono/           # Compact Chrono, model E308
 ├── _template/                # copy this folder to add a new product
