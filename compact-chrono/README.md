@@ -7,6 +7,7 @@ Source: [eu.novritsch.com/de/product/compact-chrono](https://eu.novritsch.com/de
 ## Known quirks / notes
 
 - Just a rebrand of the HT-X300X without wifi.
+- Recommendation: skip the Novritsch-branded unit and buy the HT-X300X directly from AliExpress instead (see [links.md](links.md)) — it's the identical chrono, cheaper, and the AliExpress version additionally has WiFi.
 
 ## See also
 
