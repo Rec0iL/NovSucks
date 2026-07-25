@@ -43,6 +43,7 @@ NovSucks/
 │       └── source/            # editable CAD source (STEP/F3D/SCAD/...)
 ├── ssx23/
 ├── ssg24/
+├── ssg10/
 ├── ssp18/
 ├── ssp1/
 ├── antifog-unit/             # AntiFog Unit Gen2 (BB Proof), model E164B2
