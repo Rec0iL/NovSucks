@@ -2,11 +2,10 @@
 
 This directory is structured to house print-ready STL meshes (`stl/`) and editable CAD source files (`source/`) for the SSG10 and VSR-10 platform architecture.
 
-## Community 3D Model Directory (via Yeggi / Thingiverse / Printables / MakerWorld)
+## Community 3D Model Directory (via Thingiverse / Printables / MakerWorld / Cults3D)
 
-For community-designed 3D printable upgrade parts, adapters, and maintenance tools hosted on external repositories, use the aggregated search directories below:
+For community-designed 3D printable upgrade parts, adapters, and maintenance tools hosted on external repositories, search across major 3D printing platforms:
 
-- **[Master Yeggi SSG10 Search Index](https://www.yeggi.com/q/ssg10/)** — Aggregated search index tracking SSG10 3D models across Thingiverse, Cults3D, Printables, and MakerWorld.
 - **M4 Magazine Adapters**: Search for **"SSG10 M4 magazine adapter"** on Thingiverse/Cults3D (such as the popular design by *TheBurk*) to feed standard AEG M4 magazines (Krytac, EPM, etc.) into the SSG10 magwell.
 - **TDC Mod Driller Guides & Dial Covers**: Search for **"VSR TDC guide"** or **"SSG10 TDC cover"** on Thingiverse/Printables (such as *MrNilsson*'s driller jig) for precision drilling templates and protective adjustment lock caps.
 - **14mm CCW Suppressor & Tracer Thread Adapters**: Search for **"SSG10 suppressor adapter"** or **"SSG10 14mm CCW"** on MakerWorld/Cults3D for threaded muzzle adapters that convert bull-barrel threads to industry standard 14mm CCW.
